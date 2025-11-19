@@ -93,3 +93,6 @@ sudo apt install ffmpeg
 ## 📄 License
 
 This project is licensed under the **MIT License**.
+
+<img width="1076" height="513" alt="Screenshot 2025-11-18 221640" src="https://github.com/user-attachments/assets/cd6aee3a-7588-4f34-a87b-45261dd59978" />
+
