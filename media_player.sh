@@ -16,8 +16,8 @@ while true; do
         break
     elif [[ $choice -ge 1 && $choice -le ${#files[@]} ]]; then
         selected_file=${files[$choice-1]}
-        echo "Now playing: $selected_file"  # simulate playback
-        sleep 2  # wait 2 seconds to simulate playing
+        echo "Now playing: $selected_file"  
+        sleep 2  
     else
         echo "Invalid choice. Try again."
     fi
