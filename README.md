@@ -35,7 +35,7 @@ chmod +x media_player.sh
 
 
 
-## 📝 How It Works
+How It Works
 
 1.  The script scans the `media/` directory
 2.  Displays all media files with option numbers
